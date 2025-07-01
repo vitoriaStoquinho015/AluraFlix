@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(177, 228, 230);
+    background-color: rgb(0, 0, 0);
     color: black;
 }
 
@@ -9,6 +9,6 @@ h1{
 }
 
 p{
-    color: burlywood;
+    color: rgb(238, 214, 183);
     font-size: 20px;
 }

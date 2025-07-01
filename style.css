@@ -4,11 +4,18 @@ body{
 }
 
 h1{
-    color: rgb(96, 143, 96);
+    color: rgb(156, 208, 224);
     font-size: 35px;
 }
 
 p{
     color: rgb(238, 214, 183);
     font-size: 20px;
+}
+
+header{
+    border-bottom: solid 2px rgb(156, 208, 224);
+    font-size: 40px;
+    color: rgb(32, 115, 209);
+    padding: 15px;
 }
